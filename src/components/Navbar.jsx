@@ -17,6 +17,9 @@ const Navbar = () => {
                             <li class="nav-item">
                                 <a class="nav-link" href="/search">Search</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/delete">Delete</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
