@@ -20,6 +20,9 @@ const Navbar = () => {
                             <li class="nav-item">
                                 <a class="nav-link" href="/delete">Delete</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/view">View ALl</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
